@@ -1,5 +1,7 @@
 {
 	"title": "Example",
 	"logourl": "https://static.vecteezy.com/system/resources/thumbnails/005/200/965/small/bookmark-black-color-icon-vector.jpg",
-	"js": "alert('Hi')"
+	"js": "alert('Hell')",
+	"homelink": "/",
+	"description": "This is a test bookmarklet that alerts hello when clicked"
 }
